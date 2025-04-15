@@ -61,7 +61,7 @@ function IndexPage() {
               </div>
               <div className="info-card">
                 <InfoCard 
-                  title="What Is [SECOND CHANGE TEST]?"
+                  title="NEW BRANCH TEST?"
                   body="Empathy Bytes is a student run research project focused on creating immersive technology and media centered around empathy. 
                   We think outside traditional modes of communication and documentation to create radical and unique experiences. Our research 
                   currently focuses on identifying and presenting distinct communities connected to Georgia Tech."
@@ -79,7 +79,7 @@ function IndexPage() {
           <div className="info-wrapper">
           <div className="learn-card">
                 <LearnCard 
-                  title="Want to Learn More [REMOVE LATER] ?"
+                  title="Want to Learn More?"
                   body="Check out our Experience and Project Pages to learn more about our work!"
 
                   // Currently the links don't go to the top of the pages
