@@ -79,7 +79,7 @@ function IndexPage() {
           <div className="info-wrapper">
           <div className="learn-card">
                 <LearnCard 
-                  title="Want to Learn More?"
+                  title="Want to Learn More [ REMOVE LATER ]?"
                   body="Check out our Experience and Project Pages to learn more about our work!"
 
                   // Currently the links don't go to the top of the pages
