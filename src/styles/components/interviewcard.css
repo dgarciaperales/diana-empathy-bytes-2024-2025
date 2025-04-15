@@ -1,0 +1,44 @@
+.int_card {
+    border-bottom: 0.3vw solid #b3a369;
+    margin: 1vw;
+    padding: 0.5vw;
+    box-sizing: border-box;
+}
+/*.summary {
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    line-clamp: 3;
+    text-overflow: ellipsis;
+    overflow: hidden; 
+}*/
+
+.img-style {
+    border-radius: 0.3vh;
+    width: 20vw;
+    height: 20vw;
+    object-fit: cover;
+}
+
+.col {
+    padding: 0.5vw;
+    background-color: red;
+}
+
+.row {
+    display: flex;
+    border-bottom: 0.3vw solid #b3a369;
+    padding: 1vw;
+    font-family: 'Roboto';
+    justify-items: space-between;
+}
+
+.summary {
+    line-clamp: 3;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    color: #90c7fa;
+}
+
+.ep_title {
+    color: white;
+}
